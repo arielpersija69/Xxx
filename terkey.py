@@ -33,8 +33,8 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/om_karjok untuk requests\natau pertanyaan, atau hubungi https://t.me/CRABS_ID\nThanks :*\n\n')
+print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://github.com/arielpersija69 untuk requests\natau pertanyaan, atau hubungi WA 083100231366\nThanks :*\n\n')
 
 
 # ini cuma shortcut buat bantu para nub
-# karjok pangesty
+# Ariel Sandy Permana
